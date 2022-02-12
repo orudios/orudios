@@ -20,7 +20,7 @@ CompSci Grad @ QMUL & Software Engineer with professional experience, having wor
 <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity logo" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux logo" width="40" height="40" />
 
-
+<!--
 ---
 
 Profile Visits
@@ -28,7 +28,7 @@ Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=russianpanda.russianpanda)
 
 
-<!--
+
 **russianpanda/russianpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
