@@ -1,13 +1,15 @@
+# ☀️🌱
+<!--
 ## Hey, I am Vlad 👋
+Self-motivated and enthusiastic Software Engineer with professional experience in the fintech realm, having worked with a diverse range of tools and technologies. 
 
-CompSci Grad @ QMUL & Software Engineer with professional experience, having worked with tools such as Python, Java, MySQL, and other technologies listed in the **toolbox** section below.
+🔭  Building a homelab
 
-🔭  I’m currently working on building my own homelab.
+🌱  Learning C++
 
-🌱  I’m currently learning C++ for work.
+
 
 ---
-
 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="40" height="40" />
@@ -20,7 +22,7 @@ CompSci Grad @ QMUL & Software Engineer with professional experience, having wor
 <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity logo" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux logo" width="40" height="40" />
 
-<!--
+
 ---
 
 Profile Visits
